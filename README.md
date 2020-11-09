@@ -6,10 +6,13 @@ Clone this project and install its dependencies:
 ```
 # create a python virtual environment
 $ python3 -m venv env
+
 # activate your virtualenv
 $ source env/bin/activate
+
 # install the dependencies
 (env) $ pip install -r requirements.txt
+
 # verify that the dependencies are installed correctly
 (env) $ pip freeze
 
