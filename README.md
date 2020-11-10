@@ -4,6 +4,9 @@ Sample Python Bot Scaffold for Developer Days
 Clone this project and install its dependencies:
 
 ```
+#clone repo:
+$ git clone https://github.com/SymphonyPlatformSolutions/symphony-dev-days-python.git
+
 # create a python virtual environment
 $ python3 -m venv env
 
